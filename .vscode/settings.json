@@ -2,5 +2,7 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "DB/JDBC/lib/mysql-connector-j-9.0.0.jar"
-    ]
+    ],
+    "git.ignoreLimitWarning": true,
+    "java.debug.settings.onBuildFailureProceed": true
 }

@@ -1,4 +1,4 @@
-package MouseEvent;
+
 
 import java.awt.*;
 import java.awt.event.*;
